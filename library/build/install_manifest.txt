@@ -1,0 +1,4 @@
+/usr/local/lib/libcdatastructures.so.0.1
+/usr/local/lib/libcdatastructures.so.0
+/usr/local/lib/libcdatastructures.so
+/usr/local/include/singlylinkedlist.h

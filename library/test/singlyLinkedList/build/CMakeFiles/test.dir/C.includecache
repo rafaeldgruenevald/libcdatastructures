@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/workspaces/libcdatastructures/library/test/singlyLinkedList/code/main.c
+singlylinkedlist.h
+/workspaces/libcdatastructures/library/test/singlyLinkedList/code/singlylinkedlist.h
+stdbool.h
+-
+stdio.h
+-
+

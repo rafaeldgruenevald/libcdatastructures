@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/test.dir/code/main.c.o  -o test   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib -lcdatastructures 

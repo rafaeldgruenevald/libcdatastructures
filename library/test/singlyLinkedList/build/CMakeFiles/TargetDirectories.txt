@@ -1,0 +1,3 @@
+/workspaces/libcdatastructures/library/test/singlyLinkedList/build/CMakeFiles/rebuild_cache.dir
+/workspaces/libcdatastructures/library/test/singlyLinkedList/build/CMakeFiles/edit_cache.dir
+/workspaces/libcdatastructures/library/test/singlyLinkedList/build/CMakeFiles/test.dir

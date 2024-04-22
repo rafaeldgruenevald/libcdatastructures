@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC   -shared -Wl,-soname,libcdatastructures.so.0 -o libcdatastructures.so.0.1 CMakeFiles/cdatastructures.dir/code/src/singlylinkedlist.c.o 
