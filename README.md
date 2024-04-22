@@ -1,9 +1,25 @@
 # libcdatastructures
 A collection of data structures and algorithms written in c.
 
-The following data structures will be implemented:
+<details>
+<summary>The following data structures will be implemented</summary>
 
-* Lists *
-([x]) Linked List
-([ ]) Array List
-
+# Lists
+- [ ] Linked List
+  - [x] Singly Linked List
+  - [ ] Circular Linked List
+  - [ ] Doubly Linked List       
+- [ ] Array List
+- [ ] Stack
+- [ ] Queue
+# Maps
+- [ ] Hash Map
+- [ ] Tree Map
+- [ ] Linked Hash Map
+- [ ] Trie Map
+- [ ] Bloom Filter Map
+# Trees
+- [ ] Binary Tree
+- [ ] Ternary Tree
+- [ ] N-ary Tree/Generic Tree
+</details>
