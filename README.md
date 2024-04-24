@@ -10,7 +10,9 @@ A collection of data structures and algorithms written in c.
   - [ ] Circular Linked List
   - [ ] Doubly Linked List       
 - [ ] Array List
+# Stack
 - [ ] Stack
+# Queue
 - [ ] Queue
 # Maps
 - [ ] Hash Map
